@@ -38,3 +38,6 @@ terraform.rc
 
 .vprofilekey
 .vprofilekey.pub
+
+# terraform lock 
+.terraform.lock.hcl
